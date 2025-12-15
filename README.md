@@ -8,7 +8,9 @@ This project involved developing an Advanced Number Guessing Game using Python a
 
 # What I have learnt:
 *control structures: loops and conditional statements to manage the game flow
+
 *functions: organize the code into smaller, reusable components
+
 *implementing exception handling using try-except
 
 # Future Improvements:
@@ -24,11 +26,14 @@ The BMI Calculator is a Python program that computes a person’s Body Mass Inde
 
 # What I have learnt:
 *Validates user input to prevent error from occuring
+
 *handle multiple calculations
+
 *control flow, user input handling
 
 # Future Improvements:
 *add a GUI version to enhance usability
+
 *include age and gender
 
 <img width="1300" height="550" alt="image" src="https://github.com/user-attachments/assets/5116c22e-1a43-4ef3-bcea-b3b08d016f1d" />
@@ -40,12 +45,16 @@ The smart weather checking app provides real-time weather information for any ci
 
 # What I have learnt:
 *Error handling 
+
 *Integrating API using the weather API
+
 *File Operations so that it can implement data export functionality
 
 # Future Improvements:
 *add weather alerts for severe conditions
+
 *add favourite cities for quick access
+
 *add a 5-day weather forecast feature
 
 <img width="1326" height="771" alt="image" src="https://github.com/user-attachments/assets/7bef1cff-22c2-481a-a96b-536612d645da" />
